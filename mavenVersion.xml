@@ -1,0 +1,3 @@
+<application>
+  <component name="MavenVersion" vmOptions="-Xmx768m -XX:MetaspaceSize=512M -XX:MaxMetaspaceSize=512M -Dfile.encoding=UTF-8" mavenHome="F:/IT/dev-tools/apache-maven-3.3.9" loggingLevel="WARN" />
+</application>

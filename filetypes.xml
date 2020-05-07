@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.iml;.git;.idea;.mvn;.svn;target;" />
+    <extensionMap>
+      <mapping pattern="txt" type="PLAIN_TEXT" />
+      <mapping ext="php" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

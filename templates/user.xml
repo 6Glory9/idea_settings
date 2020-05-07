@@ -1,0 +1,8 @@
+<templateSet group="user">
+  <template name="cc" value="/**&#10; *&#10; *&#10; * @author final&#10; * @since 20$date$&#10; *&#10; */" description="class comment" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>

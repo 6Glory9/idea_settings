@@ -1,0 +1,13 @@
+<application>
+  <component name="ToStringTemplates">
+    <option name="defaultTempalteName" value="jxilong" />
+    <option name="templates">
+      <list>
+        <TemplateResource>
+          <option name="fileName" value="jxilong" />
+          <option name="template" value="public String toString() {&#10;&#9;&#9;return ToString.toString(this);&#10;}" />
+        </TemplateResource>
+      </list>
+    </option>
+  </component>
+</application>
