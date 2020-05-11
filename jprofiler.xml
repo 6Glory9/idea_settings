@@ -1,0 +1,8 @@
+<application>
+  <component name="JProfilerPlugin">
+    <option name="openNewWindow" value="true" />
+  </component>
+  <component name="JrePropertiesCache">
+    <jre homeDir="F:\IT\dev-tools\jdk1.8.0_65" arch64Bit="true" />
+  </component>
+</application>
